@@ -1,0 +1,11 @@
+manifest:
+    remotes:
+        - name: atx
+          url-base: https://github.com/atx
+    projects:
+        - name: zmk
+          remote: atx
+          revision: polling
+          import: app/west.yml
+    self:
+        path: config

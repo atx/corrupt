@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: MIT
+
+config BOARD_CORRUPT
+	bool "Corrupt Keyboard"
+	depends on SOC_STM32F405XG

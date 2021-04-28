@@ -1,0 +1,16 @@
+identifier: corrupt
+name: corrupt
+type: keyboard
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+ram: 128
+flash: 1024
+supported:
+  - gpio
+  - usb_device
+  - counter
+  - nvs
+  - kscan
