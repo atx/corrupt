@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "corrupt-rescue")(type "KiCad")(uri "${KIPRJMOD}/corrupt-rescue.kicad_sym")(options "")(descr ""))
+)
