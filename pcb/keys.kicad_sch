@@ -2837,6 +2837,7 @@
 	)
 	(label "ROW4"
 		(at 30.48 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2847,6 +2848,7 @@
 	)
 	(label "COL11"
 		(at 214.63 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2857,6 +2859,7 @@
 	)
 	(label "COL9"
 		(at 113.03 177.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2867,6 +2870,7 @@
 	)
 	(label "ROW2"
 		(at 55.88 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2877,6 +2881,7 @@
 	)
 	(label "COL1"
 		(at 113.03 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2887,6 +2892,7 @@
 	)
 	(label "ROW0"
 		(at 55.88 163.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2897,6 +2903,7 @@
 	)
 	(label "COL2"
 		(at 113.03 160.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2907,6 +2914,7 @@
 	)
 	(label "COL6"
 		(at 138.43 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2917,6 +2925,7 @@
 	)
 	(label "COL0"
 		(at 113.03 154.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2927,6 +2936,7 @@
 	)
 	(label "COL5"
 		(at 123.19 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2937,6 +2947,7 @@
 	)
 	(label "ROW[0..4]"
 		(at 66.04 162.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2947,6 +2958,7 @@
 	)
 	(label "COL11"
 		(at 113.03 182.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2957,6 +2969,7 @@
 	)
 	(label "COL6"
 		(at 113.03 170.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2967,6 +2980,7 @@
 	)
 	(label "ROW4"
 		(at 55.88 173.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2977,6 +2991,7 @@
 	)
 	(label "COL[0..14]"
 		(at 124.46 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2987,6 +3002,7 @@
 	)
 	(label "COL3"
 		(at 113.03 162.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -2997,6 +3013,7 @@
 	)
 	(label "COL4"
 		(at 113.03 165.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3007,6 +3024,7 @@
 	)
 	(label "ROW3"
 		(at 30.48 105.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3017,6 +3035,7 @@
 	)
 	(label "COL14"
 		(at 260.35 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3027,6 +3046,7 @@
 	)
 	(label "COL2"
 		(at 77.47 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3037,6 +3057,7 @@
 	)
 	(label "COL3"
 		(at 92.71 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3047,6 +3068,7 @@
 	)
 	(label "COL7"
 		(at 113.03 172.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3057,6 +3079,7 @@
 	)
 	(label "ROW2"
 		(at 30.48 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3067,6 +3090,7 @@
 	)
 	(label "COL12"
 		(at 229.87 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3077,6 +3101,7 @@
 	)
 	(label "COL5"
 		(at 113.03 167.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3087,6 +3112,7 @@
 	)
 	(label "ROW1"
 		(at 55.88 166.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3097,6 +3123,7 @@
 	)
 	(label "COL10"
 		(at 113.03 180.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3107,6 +3134,7 @@
 	)
 	(label "COL14"
 		(at 113.03 190.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3117,6 +3145,7 @@
 	)
 	(label "COL7"
 		(at 153.67 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3127,6 +3156,7 @@
 	)
 	(label "COL12"
 		(at 113.03 185.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3137,6 +3167,7 @@
 	)
 	(label "ROW0"
 		(at 30.48 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3147,6 +3178,7 @@
 	)
 	(label "COL8"
 		(at 168.91 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3157,6 +3189,7 @@
 	)
 	(label "ROW3"
 		(at 55.88 171.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3167,6 +3200,7 @@
 	)
 	(label "COL4"
 		(at 107.95 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3177,6 +3211,7 @@
 	)
 	(label "COL1"
 		(at 62.23 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3187,6 +3222,7 @@
 	)
 	(label "COL8"
 		(at 113.03 175.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3197,6 +3233,7 @@
 	)
 	(label "COL13"
 		(at 245.11 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3207,6 +3244,7 @@
 	)
 	(label "COL9"
 		(at 184.15 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3217,6 +3255,7 @@
 	)
 	(label "COL0"
 		(at 46.99 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3227,6 +3266,7 @@
 	)
 	(label "ROW1"
 		(at 30.48 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3237,6 +3277,7 @@
 	)
 	(label "COL13"
 		(at 113.03 187.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3247,6 +3288,7 @@
 	)
 	(label "COL10"
 		(at 199.39 31.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3258,6 +3300,7 @@
 	(hierarchical_label "ROW[0..4]"
 		(shape input)
 		(at 82.55 162.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3269,6 +3312,7 @@
 	(hierarchical_label "COL[0..14]"
 		(shape output)
 		(at 133.35 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.9906 0.9906)
@@ -3400,6 +3444,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 43.18 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c23676b-995e-4f80-8542-873dce26aaa5")
 		)
@@ -3408,10 +3461,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D1")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D1")
 					(unit 1)
@@ -3542,6 +3591,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 58.42 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ed9bf78e-53c7-48c4-a4bc-e77e11b6a544")
 		)
@@ -3550,10 +3608,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D2")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D2")
 					(unit 1)
@@ -3684,6 +3738,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 73.66 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad40556a-d3b2-44aa-a969-ee431013bb38")
 		)
@@ -3692,10 +3755,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D3")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D3")
 					(unit 1)
@@ -3826,6 +3885,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 88.9 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "594b5e62-2d68-49d8-88f4-a1b6d8c4222e")
 		)
@@ -3834,10 +3902,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D4")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D4")
 					(unit 1)
@@ -3968,6 +4032,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 104.14 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b287c8f-5a10-4a6d-bd06-57419888e14b")
 		)
@@ -3976,10 +4049,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D5")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D5")
 					(unit 1)
@@ -4110,6 +4179,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 119.38 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c80fede3-bbed-4e40-9b99-7f5f2aa8f519")
 		)
@@ -4118,10 +4196,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D6")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D6")
 					(unit 1)
@@ -4252,6 +4326,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 134.62 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f6f1574-762b-4b8a-a246-f5d463170b4e")
 		)
@@ -4260,10 +4343,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D7")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D7")
 					(unit 1)
@@ -4394,6 +4473,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 149.86 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "067502df-bb6e-4fd1-a95b-bd050c5c5399")
 		)
@@ -4402,10 +4490,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D8")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D8")
 					(unit 1)
@@ -4536,6 +4620,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 165.1 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4157f942-6f5c-42c0-8cd8-8afe8d62b1d0")
 		)
@@ -4544,10 +4637,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D9")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D9")
 					(unit 1)
@@ -4678,6 +4767,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 180.34 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "56c24f95-8b2a-416d-ade1-546792fd52af")
 		)
@@ -4686,10 +4784,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D10")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D10")
 					(unit 1)
@@ -4820,6 +4914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 195.58 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3538b07-2382-4107-be9c-789637e711e4")
 		)
@@ -4828,10 +4931,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D11")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D11")
 					(unit 1)
@@ -4962,6 +5061,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 210.82 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1ba10eb-1969-4b3e-b710-b4bbb67c8b5e")
 		)
@@ -4970,10 +5078,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D12")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D12")
 					(unit 1)
@@ -5104,6 +5208,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 226.06 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77d6c32d-c174-4f5c-a040-0333ae1b847a")
 		)
@@ -5112,10 +5225,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D13")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D13")
 					(unit 1)
@@ -5246,6 +5355,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 241.3 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4e31811a-7de1-4dc4-8b07-76f19899a702")
 		)
@@ -5254,10 +5372,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D14")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D14")
 					(unit 1)
@@ -5388,6 +5502,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 256.54 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3fa4080b-ed65-455a-865b-489595a80582")
 		)
@@ -5396,10 +5519,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D15")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D15")
 					(unit 1)
@@ -5530,6 +5649,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d7446ff-6ca1-46b6-a2a3-83995c56cf81")
 		)
@@ -5538,10 +5666,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D16")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D16")
 					(unit 1)
@@ -5672,6 +5796,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 58.42 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67955fe7-be2e-4902-8c30-24876fcbd74d")
 		)
@@ -5680,10 +5813,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D17")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D17")
 					(unit 1)
@@ -5814,6 +5943,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 73.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f77f2684-7333-4ef3-9da1-092405105ef8")
 		)
@@ -5822,10 +5960,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D18")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D18")
 					(unit 1)
@@ -5956,6 +6090,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 88.9 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f6abb47-d5c0-4455-b4ad-dcba22013c48")
 		)
@@ -5964,10 +6107,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D19")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D19")
 					(unit 1)
@@ -6098,6 +6237,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 104.14 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7dbaada7-4837-4b89-8ce7-3359c342f631")
 		)
@@ -6106,10 +6254,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D20")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D20")
 					(unit 1)
@@ -6240,6 +6384,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 119.38 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcde4941-b6f4-4bc7-918e-a4a564c74c86")
 		)
@@ -6248,10 +6401,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D21")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D21")
 					(unit 1)
@@ -6382,6 +6531,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 134.62 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdea95d9-abed-4cac-bfed-40bb1b08b4ef")
 		)
@@ -6390,10 +6548,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D22")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D22")
 					(unit 1)
@@ -6524,6 +6678,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 149.86 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "327d3277-e05f-4639-b296-4dd295625fdd")
 		)
@@ -6532,10 +6695,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D23")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D23")
 					(unit 1)
@@ -6666,6 +6825,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 165.1 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13fcdec4-8cd1-4dd8-8ded-9ff4b965f600")
 		)
@@ -6674,10 +6842,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D24")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D24")
 					(unit 1)
@@ -6808,6 +6972,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 180.34 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7ac2641-f6d6-4ee6-8c33-8193c519d32c")
 		)
@@ -6816,10 +6989,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D25")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D25")
 					(unit 1)
@@ -6950,6 +7119,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 195.58 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89faedb7-6ad5-48c1-a408-b860422ef659")
 		)
@@ -6958,10 +7136,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D26")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D26")
 					(unit 1)
@@ -7092,6 +7266,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 210.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58816ed1-2a8f-47ed-9a74-b6a024b95d9e")
 		)
@@ -7100,10 +7283,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D27")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D27")
 					(unit 1)
@@ -7234,6 +7413,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 226.06 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80b7fb30-8d08-4174-b048-e81822f7322d")
 		)
@@ -7242,10 +7430,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D28")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D28")
 					(unit 1)
@@ -7376,6 +7560,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d27509c-090b-495e-abdc-21e21bd5fef1")
 		)
@@ -7384,10 +7577,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D29")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D29")
 					(unit 1)
@@ -7518,6 +7707,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 43.18 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47f9117d-0503-46d7-ad1b-608358b558ee")
 		)
@@ -7526,10 +7724,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D30")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D30")
 					(unit 1)
@@ -7660,6 +7854,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 58.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f8ea8214-02da-49b2-b7c3-a17022adf112")
 		)
@@ -7668,10 +7871,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D31")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D31")
 					(unit 1)
@@ -7802,6 +8001,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 73.66 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "913ecf2e-d51e-4747-980b-12b59c94bc87")
 		)
@@ -7810,10 +8018,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D32")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D32")
 					(unit 1)
@@ -7944,6 +8148,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 88.9 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bb462cb-b178-4f31-8404-bb944a507db0")
 		)
@@ -7952,10 +8165,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D33")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D33")
 					(unit 1)
@@ -8086,6 +8295,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 104.14 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc4b158d-1413-490c-b4f9-c6128d6bc473")
 		)
@@ -8094,10 +8312,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D34")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D34")
 					(unit 1)
@@ -8228,6 +8442,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdac656d-7a1a-4c5f-aa18-77607becf537")
 		)
@@ -8236,10 +8459,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D35")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D35")
 					(unit 1)
@@ -8370,6 +8589,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 134.62 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "39b7d81c-9873-4b7b-8937-799e913393e2")
 		)
@@ -8378,10 +8606,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D36")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D36")
 					(unit 1)
@@ -8512,6 +8736,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 149.86 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cdd0f910-2642-4550-980f-bab8d5b9b664")
 		)
@@ -8520,10 +8753,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D37")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D37")
 					(unit 1)
@@ -8654,6 +8883,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 165.1 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca497bb2-21a8-493f-9b88-cd714826658e")
 		)
@@ -8662,10 +8900,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D38")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D38")
 					(unit 1)
@@ -8796,6 +9030,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 180.34 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "662a8752-cfe5-4536-9a7d-2c0ba4be6a81")
 		)
@@ -8804,10 +9047,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D39")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D39")
 					(unit 1)
@@ -8938,6 +9177,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 195.58 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0ea74a62-b68c-4472-9d71-336756575469")
 		)
@@ -8946,10 +9194,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D40")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D40")
 					(unit 1)
@@ -9080,6 +9324,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 210.82 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e496032f-fd53-4ac1-9aa1-eae74e1fe0cb")
 		)
@@ -9088,10 +9341,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D41")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D41")
 					(unit 1)
@@ -9222,6 +9471,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 241.3 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e507a764-2aab-4d91-ac90-bb6dfc221a8c")
 		)
@@ -9230,10 +9488,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D42")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D42")
 					(unit 1)
@@ -9364,6 +9618,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 43.18 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c06a2f9-9fed-4704-89f9-a95e826664ee")
 		)
@@ -9372,10 +9635,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D43")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D43")
 					(unit 1)
@@ -9506,6 +9765,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 73.66 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4ca6403-113b-48f5-88b4-4cf0b40192ee")
 		)
@@ -9514,10 +9782,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D44")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D44")
 					(unit 1)
@@ -9648,6 +9912,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 88.9 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d853b1c4-d253-4ecb-91e8-a3411e5fb5ee")
 		)
@@ -9656,10 +9929,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D45")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D45")
 					(unit 1)
@@ -9790,6 +10059,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 104.14 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ba27bee-ede3-4788-ace1-846553025b7d")
 		)
@@ -9798,10 +10076,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D46")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D46")
 					(unit 1)
@@ -9932,6 +10206,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 119.38 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5a7484c-40a0-4784-82c8-42eee2ce7444")
 		)
@@ -9940,10 +10223,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D47")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D47")
 					(unit 1)
@@ -10074,6 +10353,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 134.62 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "16dd85d3-79f2-448f-a7f1-a4902b9a1c1a")
 		)
@@ -10082,10 +10370,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D48")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D48")
 					(unit 1)
@@ -10216,6 +10500,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 149.86 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "766e4924-5cad-45e5-bf86-15ed983eb509")
 		)
@@ -10224,10 +10517,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D49")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D49")
 					(unit 1)
@@ -10358,6 +10647,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 165.1 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f93ec4c-29af-480c-8805-a3632e0b0388")
 		)
@@ -10366,10 +10664,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D50")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D50")
 					(unit 1)
@@ -10500,6 +10794,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 180.34 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b9b653ac-a3c8-401a-96d6-f72bbe216e6e")
 		)
@@ -10508,10 +10811,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D51")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D51")
 					(unit 1)
@@ -10642,6 +10941,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 195.58 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3231f3e3-476e-4f4d-aa42-51b3ed857199")
 		)
@@ -10650,10 +10958,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D52")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D52")
 					(unit 1)
@@ -10784,6 +11088,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 210.82 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0199a611-1167-4776-b59a-774a5f3be7fa")
 		)
@@ -10792,10 +11105,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D53")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D53")
 					(unit 1)
@@ -10926,6 +11235,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 226.06 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1011f65e-67a0-4d08-8a05-3cd0f2e46da4")
 		)
@@ -10934,10 +11252,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D54")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D54")
 					(unit 1)
@@ -11068,6 +11382,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 241.3 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1e98e6b-384c-4b8b-b898-fee5191b09a6")
 		)
@@ -11076,10 +11399,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D55")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D55")
 					(unit 1)
@@ -11210,6 +11529,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 256.54 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0bb02214-8b25-4c47-93ce-511923f3f6e1")
 		)
@@ -11218,10 +11546,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D56")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D56")
 					(unit 1)
@@ -11352,6 +11676,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 43.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc450ebc-6315-4208-90d3-5b77a5288817")
 		)
@@ -11360,10 +11693,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D57")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D57")
 					(unit 1)
@@ -11494,6 +11823,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 58.42 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fccd8e99-bd50-40c6-9222-c0c7fa6a0732")
 		)
@@ -11502,10 +11840,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D58")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D58")
 					(unit 1)
@@ -11636,6 +11970,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 73.66 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94f8083d-1228-4164-93b3-103b26e56811")
 		)
@@ -11644,10 +11987,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D59")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D59")
 					(unit 1)
@@ -11778,6 +12117,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 134.62 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bdbb6b6b-5a50-4686-bcc9-9422aa35825b")
 		)
@@ -11786,10 +12134,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D60")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D60")
 					(unit 1)
@@ -11920,6 +12264,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 195.58 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a52a8ee-fe9b-44ac-9d18-08e96b2f7b52")
 		)
@@ -11928,10 +12281,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D61")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D61")
 					(unit 1)
@@ -12062,6 +12411,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 210.82 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2cc124fc-888d-4c5c-97de-8cbf06c7d77a")
 		)
@@ -12070,10 +12428,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D62")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D62")
 					(unit 1)
@@ -12204,6 +12558,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d48c624a-4b2a-407c-889a-53ef33db8ca5")
 		)
@@ -12212,10 +12575,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D63")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D63")
 					(unit 1)
@@ -12346,6 +12705,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 241.3 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7203085-6718-494c-a1e6-ff0987682f47")
 		)
@@ -12354,10 +12722,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D64")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D64")
 					(unit 1)
@@ -12488,6 +12852,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 256.54 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05d39d58-9e26-4c15-b7f9-290ea7a41e71")
 		)
@@ -12496,10 +12869,6 @@
 		)
 		(instances
 			(project "corrupt"
-				(path "/ee72c7fa-c77b-4829-be96-5db51728d240"
-					(reference "D65")
-					(unit 1)
-				)
 				(path "/ee72c7fa-c77b-4829-be96-5db51728d240/00000000-0000-0000-0000-0000601e1ef3"
 					(reference "D65")
 					(unit 1)
